@@ -1,0 +1,9 @@
+2025-01-30 15:58:43,873:ERROR:An error occurred: module 'ccxt' has no attribute 'coinbasepro'
+2025-01-30 16:02:19,704:ERROR:An error occurred: module 'ccxt' has no attribute 'coinbasepro'
+2025-01-30 16:02:28,061:ERROR:An error occurred: module 'ccxt' has no attribute 'coinbasepro'
+2025-01-30 16:10:40,095:ERROR:An error occurred: module 'ccxt' has no attribute 'coinbasepro'
+2025-01-30 16:13:20,392:ERROR:An error occurred: module 'ccxt' has no attribute 'coinbasepro'
+2025-01-30 16:16:20,831:ERROR:An error occurred: module 'ccxt' has no attribute 'coinbasepro'
+2025-01-30 16:19:20,983:ERROR:An error occurred: "None of [Index([ 4,  5,  8,  9, 13, 14, 15, 16, 17, 18, 21, 22, 24, 25, 26, 27, 28, 33,\n       34, 35, 36, 38, 39, 44, 45, 47, 48, 53],\n      dtype='int32')] are in the [index]"
+2025-01-30 16:36:13,653:ERROR:An error occurred: module 'ccxt' has no attribute 'coinbasepro'
+2025-01-30 16:50:27,249:ERROR:An error occurred: module 'ccxt' has no attribute 'coinbasepro'
